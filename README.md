@@ -3,10 +3,14 @@
 
 __**Présentation**__ __**du**__ __**bot**__ **:**
 
-> `🛠️`・Le robot te propose pleins de commandes de modérations simple et efficace !\n
-> `⚙️`・Un système de protection complet et efficace\n
-> `💻`・Un module de configuration super facile d’utilisation !\n
-> `🎫`・Un module de ticket avancé\n
+> `🛠️`・Le robot te propose pleins de commandes de modérations simple et efficace !
+> 
+> `⚙️`・Un système de protection complet et efficace
+> 
+> `💻`・Un module de configuration super facile d’utilisation !
+> 
+> `🎫`・Un module de ticket avancé
+> 
 
 __**Liens**__ __**du**__ __**bot**__ **:**
 
