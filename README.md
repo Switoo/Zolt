@@ -15,6 +15,10 @@ __**Présentation**__ __**du**__ __**bot**__ **:**
 __**Liens**__ __**du**__ __**bot**__ **:**
 
 > `👨‍💻`・__**Site Internet**__ **:** https://zolt.fr
+> 
 > `🔩`・__**Serveur Support**__ **:** https://discord.zolt.fr
+> 
 > `📎`・__**Invitation**__ **:** https://invite.zolt.fr/
+> 
 > `🗳`・__**Vote**__ **:** https://vote.zolt.fr
+> 
